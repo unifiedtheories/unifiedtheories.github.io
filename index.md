@@ -1,4 +1,4 @@
-# Hi! Welome to my technical writing portfolio
+## Hi! Welcome to my technical writing portfolio
 
 Please feel free to have a look around
 
