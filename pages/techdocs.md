@@ -5,7 +5,7 @@ permalink: /techdocs/
 ---
 
 #### Technical Documentation
-
+ 
 **White Paper - MOLLI2**
 [PDF][whitepaper]
 This paper introduces the MOLLI2 system to healthcare professionals working in radiology and oncology as a safe, streamlined option for breast cancer surgery.
