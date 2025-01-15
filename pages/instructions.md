@@ -9,5 +9,5 @@ permalink: /instructions/
 **Quick Reference Guide**
 [PDF][qrg]
 
-
+[qrg]: /files/SMcNeelyQuickRefGuide.pdf
 
