@@ -5,7 +5,7 @@ permalink: /other/
 ---
 
 #### Other Writing
-
+ 
 *This page is currently under construction.*
 
 **Wonders of the World: "Significance in Human History"**
@@ -15,4 +15,4 @@ permalink: /other/
 [PDF][AiArt]
 
 [AiArt]: /files/AIArt.pdf
-[DelphiPetra]: files/DelphiPetra.pdf
+[DelphiPetra]: /files/DelphiPetra.pdf

@@ -5,7 +5,7 @@ permalink: /visuals/
 ---
 
 #### Visual Design
-
+ 
 **Datasheet - MOLLI2**
 [PDF][datasheet]
 
