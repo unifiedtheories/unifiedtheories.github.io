@@ -5,6 +5,7 @@ permalink: /editing/
 ---
 
 #### Editing
+ ---
  
 **White Paper Edit**
 Here is a soft copy edit of a peer's white paper. This assignment was a lesson on how to interact in an editing relationship as an editor and as a writer.

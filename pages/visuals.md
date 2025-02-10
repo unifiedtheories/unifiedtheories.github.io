@@ -5,6 +5,7 @@ permalink: /visuals/
 ---
 
 #### Visual Design
+ ---
  
 **Datasheet - MOLLI2**
 This sample demonstrates a digital copy of a two-page, double sided datasheet made for print. I used Adobe InDesign to create the datasheet.

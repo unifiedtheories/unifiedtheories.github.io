@@ -6,8 +6,8 @@ permalink: /other/
 
 #### Other Writing
  
-*This page is currently under construction.*
-
+ ---
+ 
 **Wonders of the World: "Significance in Human History"**
 This paper compares two UNESCO world heritage sites, the Temple of Apollo at Delphi and the city of Petra, Jordan.
 [PDF][DelphiPetra]
