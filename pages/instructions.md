@@ -8,8 +8,8 @@ permalink: /instructions/
  <br>
 
 **Quick Reference Guide**
-This is a two-page quick reference guide which teaches the process of adding a markdown editing extension in Visual Studio Code. 
 [PDF][qrg]
+This is a two-page quick reference guide which teaches the process of adding a markdown editing extension in Visual Studio Code. 
 <details>
 <summary>Skills</summary>
 <li>Instructional writing</li>
