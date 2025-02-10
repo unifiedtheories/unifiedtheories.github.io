@@ -1,24 +1,35 @@
+---
+layout: page
+title: Simon's Technical Writing Portfolio
+permalink: /
+---
+
 # Home
 
-## Hi! Welcome to my Technical Writing Portfolio
+Hi! Welcome to my Technical Writing Portfolio. Please feel free to have a look around
 
-Please feel free to have a look around
+## Projects:
 
-### Projects:
+<br>
 
-**[Technical Documentation][techdocs]**
+### [Technical Documentation][techdocs]
+
 Here is a collection of my works of technical documentation, including white papers, proposals, and others.
 
-**[Instructional Writing][instructions]**
+### [Instructional Writing][instructions]
+
 Here you will find my works of instructional design and educational writing.
 
-**[Visual Design][visuals]**
+### [Visual Design][visuals]
+
 Here I provide a few examples of visuals I have created, includes works such as datasheets, graphs, flowcharts, and powerpoint presentations
 
-**[Editing]**
+### [Editing]
+
 Here I demonstrate my editing capabilities, currently includes soft copy edits using Microsoft Word.
 
-**[Other]**
+### [Other]
+
 Here is a sample of other miscellaneous works of writing I have done including essays from my undergraduate degree.
 <br>
 
