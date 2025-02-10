@@ -6,8 +6,6 @@ Please feel free to have a look around
 
 ### Projects:
 
-
-
 **[Technical Documentation][techdocs]**
 Here is a collection of my works of technical documentation, including white papers, proposals, and others.
 
@@ -22,7 +20,11 @@ Here I demonstrate my editing capabilities, currently includes soft copy edits u
 
 **[Other]**
 Here is a sample of other miscellaneous works of writing I have done including essays from my undergraduate degree.
+<br>
 
+This website was made with GitHub Pages using [jekyll-theme-console][console]<br>
+
+[console]: https://b2a3e8.github.io/jekyll-theme-console-demo-light/
 [techdocs]: https://unifiedtheories.github.io/techdocs
 [instructions]: https://unifiedtheories.github.io/instructions
 [visuals]: https://unifiedtheories.github.io/visuals
