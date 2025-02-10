@@ -25,7 +25,7 @@ Skills:
 <li>Technical editing</li>
 <li>Illustrations</li>
 <li>Tables</li>
-</details><br/><br/>
+</details>  <br/> 
 
 **Proposal for a Multiheaded Microscope at Royal Inland Hospital**
 [PDF][proposal]
