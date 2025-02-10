@@ -5,7 +5,6 @@
 Please feel free to have a look around
 
 ### Projects:
- <br>
 
 **[Technical Documentation][techdocs]**
 Here is a collection of my works of technical documentation, including white papers, proposals, and others.
