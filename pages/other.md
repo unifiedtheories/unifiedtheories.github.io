@@ -4,11 +4,11 @@ title: Other
 permalink: /other/
 ---
 
-#### Other Writing
+# Other Writing
  
  <br>
 
-**Wonders of the World: "Significance in Human History"**
+## Wonders of the World: "Significance in Human History"
 [PDF][DelphiPetra]
 This paper compares two UNESCO world heritage sites, the Temple of Apollo at Delphi and the city of Petra, Jordan.
 <details>
@@ -20,7 +20,7 @@ This paper compares two UNESCO world heritage sites, the Temple of Apollo at Del
 <br>
 
 
-**Artificial Intelligence and Surveillance Art: What to do When Conserving Problematic Artworks**
+## Artificial Intelligence and Surveillance Art: What to do When Conserving Problematic Artworks
 [PDF][AiArt]
 This paper discusses questions made when conserving artworks that have been banned or critcized, focusing attention towards artworks made in the digital age. 
 <details>

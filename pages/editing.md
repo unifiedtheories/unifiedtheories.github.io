@@ -4,10 +4,10 @@ title: Editing
 permalink: /editing/
 ---
 
-#### Editing
+# Editing
  <br>
 
-**White Paper Edit**
+## White Paper Edit
 [PDF][whitepaper]
 Here is a soft copy edit of a peer's white paper. This assignment was a lesson on how to interact in an editing relationship as an editor and as a writer.
 <details>
@@ -20,7 +20,7 @@ Here is a soft copy edit of a peer's white paper. This assignment was a lesson o
 <br>
 
 
-**Soft Copy Edit**
+## Soft Copy Edit
 [PDF][scedit]
 This assignment had me edit an informational guide using track changes, teaching me how to gauge when and where to make comments and/or spelling and grammar corrections.
 <details>
