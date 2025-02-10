@@ -5,16 +5,30 @@ permalink: /editing/
 ---
 
 #### Editing
- ---
- 
+ <br>
+
 **White Paper Edit**
 Here is a soft copy edit of a peer's white paper. This assignment was a lesson on how to interact in an editing relationship as an editor and as a writer.
 [PDF][whitepaper]
+<details>
+<summary>Skills</summary>
+<li>Comprehensive editing</li>
+<li>Microsoft Word track changes</li>
+<li>Communicating with clients</li>
+<li>Organizing and committing to deadlines</li>
+</details>
+<br>
+
 
 **Soft Copy Edit**
 This assignment had me edit an informational guide using track changes, teaching me how to gauge when and where to make comments and/or spelling and grammar corrections.
 [PDF][scedit]
-
+<details>
+<summary>Skills</summary>
+<li>Comprehensive editing</li>
+<li>Microsoft Word track changes</li>
+</details>
+<br>
 
 
 [whitepaper]: /files/SMcNeelyWPEdit.pdf
