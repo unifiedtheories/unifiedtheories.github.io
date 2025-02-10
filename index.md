@@ -6,9 +6,7 @@ permalink: /
 
 Hi! Welcome to my Technical Writing Portfolio. Please feel free to have a look around
 
-## Projects:
-
-<br>
+## Projects:<br>
 
 ### [Technical Documentation][techdocs]
 
