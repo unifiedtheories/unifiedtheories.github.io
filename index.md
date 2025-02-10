@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Simon's Technical Writing Portfolio
+title: Home
 permalink: /
 ---
-
-# Home
 
 Hi! Welcome to my Technical Writing Portfolio. Please feel free to have a look around
 
