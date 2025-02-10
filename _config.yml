@@ -29,6 +29,7 @@ github_username:  unifiedtheories
 # Build settings
 header_pages:
   - index.md
+  - about.md
 
 
 style: light 
