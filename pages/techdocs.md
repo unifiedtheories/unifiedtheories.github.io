@@ -14,7 +14,7 @@ This paper introduces the MOLLI2 system to healthcare professionals working in r
 
 <details>
 <summary></summary>
-This paper introduces the MOLLI 2 System to healthcare professionals working in radiology and oncology as a safe, streamlined option for breast cancer surgery. It frames the product as a current trend, showcasing it as an improvement upon previously used cancer localization techniques. This paper aims to persuade physicians to adopt the MOLLI 2 system into their practice, and for patients to aim towards choosing wireless localization for a safer surgical experience. The purpose of this assignment is to practice skills in persuasion and research, showcasing how to condense complicated information down for a particular audience.</br></br>
+This paper introduces the MOLLI 2 System to healthcare professionals working in radiology and oncology as a safe, streamlined option for breast cancer surgery. It frames the product as a current trend, showcasing it as an improvement upon previously used cancer localization techniques. This paper aims to persuade physicians to adopt the MOLLI 2 system into their practice, and for patients to aim towards choosing wireless localization for a safer surgical experience. The purpose of this assignment is to practice skills in persuasion and research, showcasing how to condense complicated information down for a particular audience.<br></br>
 Skills:
 <li>Persuasive writing</li>
 <li>Research</li>
