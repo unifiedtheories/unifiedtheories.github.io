@@ -23,7 +23,7 @@ This is a video walkthrough of a short video game made in a group of three durin
 <br>
 
 ## Restaurant Database Walkthrough
-[VIDEO][restuarant] [GITHUB][restgit]
+[VIDEO][restaurant] [GITHUB][restgit]
 This is a video walkthrough of a web portal representing an imaginary restaurant. We were graded on the structure of our database and the function of the web interactions, the rest of the customization was up to the student. In this assignment we learned about managing data, creating relational databases, and how to code in several languages. I plan to use this video in my script assignment during my Technical Writer program, rehauling the original script which I have muted for the time being.
 
 <details>
