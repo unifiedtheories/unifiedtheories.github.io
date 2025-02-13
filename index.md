@@ -39,7 +39,7 @@ This website was made with GitHub Pages using [jekyll-theme-console][console]<br
 [techdocs]: https://unifiedtheories.github.io/techdocs
 [instructions]: https://unifiedtheories.github.io/instructions
 [visuals]: https://unifiedtheories.github.io/visuals
-[other]: https://unifiedtheories.github.io/csdemo
+[csdemo]: https://unifiedtheories.github.io/csdemo
 [editing]: https://unifiedtheories.github.io/editing
 [other]: https://unifiedtheories.github.io/other
 
