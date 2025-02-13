@@ -4,7 +4,9 @@ title: /Home
 permalink: /
 ---
 
-Hi! Welcome to my Technical Writing Portfolio. Please feel free to have a look around
+Hi! Welcome to my Technical Writing Portfolio. Please feel free to have a look around. 
+<br>
+My About page is currently under construction, but if you're looking to learn about me, find me at my [Linkedin][linkedin] or check out my [GitHub][git]
 
 ## Projects:<br>
 
@@ -33,9 +35,14 @@ Here I demonstrate my editing capabilities, currently includes soft copy edits u
 Here is a sample of other miscellaneous works of writing I have done including essays from my undergraduate degree.
 <br>
 
-This website was made with GitHub Pages using [jekyll-theme-console][console]<br>
+
+This website was made with GitHub Pages using [jekyll-theme-console][console], check out my repository [here][repo]<br>
 
 [console]: https://b2a3e8.github.io/jekyll-theme-console-demo-light/
+[repo]: https://github.com/unifiedtheories/unifiedtheories.github.io
+[linkedin]: https://www.linkedin.com/in/simon-mcneely-b77b39268/
+[git]: https://github.com/unifiedtheories
+
 [techdocs]: https://unifiedtheories.github.io/techdocs
 [instructions]: https://unifiedtheories.github.io/instructions
 [visuals]: https://unifiedtheories.github.io/visuals
