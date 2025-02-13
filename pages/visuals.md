@@ -86,8 +86,11 @@ This powerpoint presentation accompanies my paper comparing the two UNESCO world
 
 [datasheet]: /files/SMcNeelyDatasheet.pdf
 [mollipp]: /files/SMcNeelyWPPowerpoint.pdf
+
 [mollivid]: https://youtu.be/_ZKtdj3YgSo
+
 [steam]: /files/steamRedesign.png
+
 [aiart]: /files/presentationFinalMcNeely.pdf
 [indigenous]: /files/Indigenous%20Arts.pdf
 [unesco]: /files/McNeelyFinalPowerPoint405.pdf

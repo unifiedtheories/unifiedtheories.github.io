@@ -18,7 +18,11 @@ Here you will find my works of instructional design and educational writing.
 
 ### [Visual Design][visuals]
 
-Here I provide a few examples of visuals I have created, includes works such as datasheets, graphs, flowcharts, and powerpoint presentations
+Here I provide a few examples of visuals I have created, includes works such as datasheets, graphs, flowcharts, and powerpoint presentations.
+
+### [Computer Science Demos][csdemo]
+
+Here is a collection of videos showing the final product of some of my computer science assignments from my undergraduate degree.
 
 ### [Editing]
 
@@ -35,6 +39,7 @@ This website was made with GitHub Pages using [jekyll-theme-console][console]<br
 [techdocs]: https://unifiedtheories.github.io/techdocs
 [instructions]: https://unifiedtheories.github.io/instructions
 [visuals]: https://unifiedtheories.github.io/visuals
+[other]: https://unifiedtheories.github.io/csdemo
 [editing]: https://unifiedtheories.github.io/editing
 [other]: https://unifiedtheories.github.io/other
 
