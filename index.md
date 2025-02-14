@@ -20,7 +20,7 @@ Here you will find my works of instructional design and educational writing.
 
 ### [Visual Design][visuals]
 
-Here I provide a few examples of visuals I have created, includes works such as datasheets, graphs, flowcharts, and powerpoint presentations.
+Here I provide a few examples of visuals I have created, includes works such as datasheets and powerpoint presentations.
 
 ### [Computer Science Demos][csdemo]
 
