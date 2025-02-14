@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visual Design
-
+permalink: /visuals/
 ---
 
 # Visual Design
