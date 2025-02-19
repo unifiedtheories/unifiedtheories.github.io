@@ -4,7 +4,8 @@ title: /Home
 permalink: /
 ---
 
-Hi! Welcome to my Technical Writing Portfolio. Please feel free to have a look around. 
+Hi! My name is Simon McNeely. 
+Welcome to my Technical Writing Portfolio. Please feel free to have a look around. 
 <br>
 My About page is currently under construction, but if you're looking to learn about me, find me at my [Linkedin][linkedin] or check out my [GitHub][git]
 
