@@ -35,6 +35,7 @@ In this project, a classmate and I produced a tutorial document teaching the rea
 <li>Markdown</li>
 <li>GitHub/source control</li>
 <li>Console commands</li>
+</details>
 
 [qrg]: /files/SMcNeelyQuickRefGuide.pdf
 [git]: /files/SMcNeelyTutorial.pdf
