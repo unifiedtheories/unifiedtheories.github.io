@@ -19,6 +19,16 @@ Here is a soft copy edit of a peer's white paper. This assignment was a lesson o
 </details>
 <br>
 
+## Timed Edit
+[PDF][timeedit]
+In this assignment, we were tasked to estimate how much editing work we could get done and what we would focus on when given a 60min time limit. I performed this edit on a manual made by student engineers in school years prior, choosing to focus on improving the visual design and consistency of the document.
+<details>
+<summary>Skills</summary>
+<li>Comprehensive editing</li>
+<li>Job estimation</li>
+<li>Microsoft Word track changes</li>
+</details>
+<br>
 
 ## Soft Copy Edit
 [PDF][scedit]
@@ -33,3 +43,4 @@ This assignment had me edit an informational guide using track changes, teaching
 
 [whitepaper]: /files/SMcNeelyWPEdit.pdf
 [scedit]: /files/SMcNeelySoftCopyEdit.pdf
+[timeedit]: /files/SMcNeelyTimedEdit.pdf
