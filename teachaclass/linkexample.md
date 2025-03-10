@@ -6,9 +6,9 @@ permalink: /tac/
 
 # Teach a Class Example Page
 
-[Click Me][wiki] to see a random Wikipedia article!
+[Click Me][rand] to see a random location!
 
 
-[wiki]: https://en.wikipedia.org/wiki/Special:Random
+[rand]: https://randomstreetview.com/
 
 
