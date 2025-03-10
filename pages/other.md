@@ -22,7 +22,7 @@ This paper compares two UNESCO world heritage sites, the Temple of Apollo at Del
 
 ## Artificial Intelligence and Surveillance Art: What to do When Conserving Controversial Artworks
 [PDF][AiArt]
-This paper discusses questions made when conserving artworks that have been banned or critcized, focusing attention towards artworks made in the digital age. 
+This paper discusses questions made when conserving data-driven artworks that have been banned or critcized 
 <details>
 <summary>Skills</summary>
 <li>Argumentative writing</li>
