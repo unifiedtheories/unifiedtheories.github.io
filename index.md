@@ -32,15 +32,16 @@ Here is a sample of other miscellaneous works of writing I have done including e
 
 This website was made with GitHub Pages using [jekyll-theme-console][console], check out my repository [here][repo]<br>
 
-[console]: https://b2a3e8.github.io/jekyll-theme-console-demo-light/
-[repo]: https://github.com/unifiedtheories/unifiedtheories.github.io
+
 [linkedin]: https://www.linkedin.com/in/simon-mcneely-b77b39268/
 [git]: https://github.com/unifiedtheories
+[console]: https://b2a3e8.github.io/jekyll-theme-console-demo-light/
+[repo]: https://github.com/unifiedtheories/unifiedtheories.github.io
 
 [techdocs]: https://mcneely.fyi/techdocs
-[instructions]: https://unifiedtheories.github.io/instructions
-[visuals]: https://unifiedtheories.github.io/visuals
-[csdemo]: https://unifiedtheories.github.io/csdemo
-[editing]: https://unifiedtheories.github.io/editing
-[other]: https://unifiedtheories.github.io/other
+[instructions]: https://mcneely.fyi/instructions
+[visuals]: https://mcneely.fyi/visuals
+[csdemo]: https://mcneely.fyi/csdemo
+[editing]: https://mcneely.fyi/editing
+[other]: https://mcneely.fyi/other
 
