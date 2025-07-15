@@ -39,6 +39,20 @@ In this project, a classmate and I produced a tutorial document teaching the rea
 <li>Console commands</li>
 </details>
 
+## Instructional Course - How to Use the Gradient Map Tool in Clip Studio Paint
+[Link][csp] [Script][script]
+This is a short tutorial made using Adobe Captivate that provides instructions for digital artists on how to use the gradient map tool in the application Clip Studio Paint.
+<details>
+<summary>Skills</summary>
+<li>Instructional writing</li>
+<li>Script Writing</li>
+<li>Structured writing</li>
+<li>Illustrations</li>
+<li>Adobe Captivate</li>
+<li>Video Editing</li>
+<li>Voiceover</li>
+</details>
+
 ## Quick Reference Guide
 [PDF][qrg]
 This is a two-page quick reference guide which teaches the process of adding a markdown editing extension in Visual Studio Code. 
@@ -56,3 +70,5 @@ This is a two-page quick reference guide which teaches the process of adding a m
 [sprout]: /files/SMcNeelySproutSensorManual.pdf
 [qrg]: /files/SMcNeelyQuickRefGuide.pdf
 [git]: /files/SMcNeelyTutorial.pdf
+[link]: /pages/SMcNeelyScreencast/index.html
+[script]: /files/SMcNeelyScript.pdf
