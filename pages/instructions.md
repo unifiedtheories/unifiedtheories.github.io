@@ -70,5 +70,5 @@ This is a two-page quick reference guide which teaches the process of adding a m
 [sprout]: /files/SMcNeelySproutSensorManual.pdf
 [qrg]: /files/SMcNeelyQuickRefGuide.pdf
 [git]: /files/SMcNeelyTutorial.pdf
-[link]: /pages/SMcNeelyScreencast/index.html
+[csp]: /pages/SMcNeelyScreencast/index.html
 [script]: /files/SMcNeelyScript.pdf
