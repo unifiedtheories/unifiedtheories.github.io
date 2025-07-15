@@ -7,7 +7,7 @@ permalink: /instructions/
 # Instructional Design
  <br>
 
-## Instrucitonal Manual - SPROUT Aquaponic Sensor Control and Monitoring System
+## Manual - SPROUT Aquaponic Sensor Control and Monitoring System
 [PDF][sprout]
 In this project, a classmate and I produced an instruction manual for a group of fellow student engineers who created an automated monitoring system for an aquaponics garden. 
 <details>
