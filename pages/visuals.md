@@ -60,7 +60,7 @@ This powerpoint was made for a seminar class during my undergraduate degree on m
 <br>
 
 ## Powerpoint Presentation - Indigenous Arts
-[PDF][indigenous]
+[PDF][indigenous] [Notes][indigenousnotes]
 This powerpoint presentation discusses the conservation questions when dealing with Indigenous made artworks, particularly questions on whether or not artwork is meant to be used or preserved.
 
 <details>
@@ -93,5 +93,6 @@ This powerpoint presentation accompanies my paper comparing the two UNESCO world
 
 [aiart]: /files/presentationFinalMcNeely.pdf
 [indigenous]: /files/Indigenous%20Arts.pdf
+[indigenousnotes]: /files/SMcNeelyIndigenousArtsNotes.pdf
 [unesco]: /files/McNeelyFinalPowerPoint405.pdf
 
