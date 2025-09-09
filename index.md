@@ -7,7 +7,7 @@ permalink: /
 Hi! My name is Simon McNeely. 
 Welcome to my Technical Writing Portfolio. Please feel free to have a look around. 
 <br>
-My About page is currently under construction, but if you're looking to learn about me, find me at my [Linkedin][linkedin] or check out my [GitHub][git]
+Find me at my [Linkedin][linkedin] account or check out my [GitHub][git].
 
 ## Projects:<br>
 
